@@ -125,7 +125,7 @@
    │                                                         │
    │  MONITOREO Y LOGS                                       │
    │                                                         │
-   │  - Logs deshabilitados en la mayoría de servicios      │
+   │  - Logs deshabilitados en la mayoría de servicios       │
    │  - Sin sistema de monitoreo                             │
    │  - Sin alertas configuradas                             │
    │  - Sin IDS/IPS                                          │
